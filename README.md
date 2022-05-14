@@ -4,4 +4,4 @@ Web app to manage time.
 ## Tech used:
 ### - JavaScript
 ### - operation on REST API end-points
-### - HTML + CSS
+### - HTML + CSS (bootstrap)
